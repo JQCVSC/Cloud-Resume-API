@@ -1,0 +1,183 @@
+{
+  "basics": {
+    "name": "JEREMY CODJOE",
+    "email": "jeremycodjoe@gmail.com",
+    "phone": "(480) 432-1619",
+    "url": "https://www.linkedin.com/in/jeremycodjoe/",
+    "location": {
+      "city": "San Tan Valley",
+      "region": "AZ"
+    }
+  },
+  "education": [
+    {
+      "institution": "The University of Chicago",
+      "area": "DevOps",
+      "studyType": "Certificate",
+      "endDate": "2023"
+    },
+    {
+      "institution": "Strayer University",
+      "area": "Coding Fundamentals",
+      "studyType": "Certificate",
+      "endDate": "2022-08-30"
+    },
+    {
+      "institution": "Colorado State University Global Campus",
+      "area": "Cybersecurity",
+      "studyType": "Certificate",
+      "endDate": "2020"
+    },
+    {
+      "institution": "Arizona State University",
+      "area": "Political Science",
+      "studyType": "Bachelor",
+      "endDate": "2018"
+    },
+    {
+      "institution": "Rio Salado College",
+      "area": "General Studies",
+      "studyType": "Associate",
+      "endDate": "2015"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Google Cloud Digital Leader",
+      "date": "2024-04-30",
+      "issuer": "Google"
+    },
+    {
+      "name": "Microsoft Azure Certified: Fundamentals",
+      "date": "2022-10-17",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
+      "date": "2022-06-11",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "Jira Fundamentals",
+      "date": "2022-05-20",
+      "issuer": "Atlassian University"
+    },
+    {
+      "name": "Microsoft 365 Certified: Fundamentals",
+      "date": "2022-04-18",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "Foundations of Leadership",
+      "date": "2021-06",
+      "issuer": "The National Society of Leadership and Success"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Information Security",
+      "keywords": [
+        "IBM QRadar",
+        "CyberArk",
+        "RSA"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "keywords": [
+        "JIRA"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "keywords": [
+        "Google Cloud",
+        "Microsoft Azure",
+        "Amazon Web Services"
+      ]
+    },
+    {
+      "name": "Technical Support",
+      "keywords": [
+        "Zendesk",
+        "Service Now",
+        "Help Desk Analyst",
+        "Remote Work"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Wells Fargo",
+      "position": "Technology Operations Associate",
+      "startDate": "2022-01",
+      "endDate": "",
+      "highlights": [
+        "Provide technical support via telephone and email to handle inquiries, incidents and business requests raised by internal team members.",
+        "Reset internal users Multi Factor Authentication via Microsoft Azure",
+        "Provide support for mobile devices provisioning devices and installing work applications.",
+        "Document and resolve basic problems regarding end-user computers, peripheral devices, business applications, and hardware and software where necessary."
+      ]
+    },
+    {
+      "company": "Cytellix Systems",
+      "position": "Security Operations Center (SOC) Analyst",
+      "startDate": "2021-08",
+      "endDate": "2022-01",
+      "highlights": [
+        "Investigated SIEM alerts.",
+        "Performed threat hunts for malicious I.P. 's within the network.",
+        "Performed open-source intelligence research on malicious I.P.'s.",
+        "Investigated alerts from firewalls, network and host-based intrusion prevention systems, web content gateways, email security appliances, threat intel platforms, antivirus products, vulnerability scanners and user behavior analytics platforms."
+      ]
+    },
+    {
+      "company": "Apex Systems",
+      "position": "Information Security Analyst",
+      "startDate": "2019-06",
+      "endDate": "2021-05",
+      "highlights": [
+        "Supported key internal business units and organizations at Wells Fargo in securing and procuring access to internal proprietary applications.",
+        "Provisioning identity and access.",
+        "Verified access rules and policies that align with the bank's policies and standards.",
+        "Provisioned employee access to internal applications"
+      ]
+    },
+    {
+      "company": "Insight Global",
+      "position": "Benefits Enrollment Specialist",
+      "startDate": "2018-08",
+      "endDate": "2019-01",
+      "highlights": [
+        "Managed benefit enrollment projects for ADP clients and customers.",
+        "Provided technical product support to customers.",
+        "Guided customers on utilization of ADP software as a service.",
+        "Provided web-based SaaS support."
+      ]
+    },
+    {
+      "company": "Mesa Community College",
+      "position": "New Student Enrollment Specialist",
+      "startDate": "2017-05",
+      "endDate": "2018-05",
+      "highlights": [
+        "Provided web-based SaaS support to students.",
+        "Provided in person student support.",
+        "Assisted students with navigating school websites and online applications.",
+        "Delivered presentations on new student orientations, updated databases, assisted students with website navigation, and processed admission applications (enrollment, withdrawal)."
+      ]
+    },
+    {
+      "company": "Rio Salado College",
+      "position": "Student Enrollment Services",
+      "startDate": "2016-05",
+      "endDate": "2017-05",
+      "highlights": [
+        "Provided web-based SaaS support to students.",
+        "Assisted students with building online class schedules.",
+        "Assisted students with navigating school websites and online applications.",
+        "Supported processing dual enrollment student applications, responded to student telephone inquiries, validated prerequisites for class placement."
+      ]
+    }
+  ]
+}
