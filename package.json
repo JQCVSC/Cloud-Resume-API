@@ -1,0 +1,8 @@
+{
+    "name": "cloud-resume-api",
+    "version": "1.0.0",
+    "dependencies": {
+      "@google-cloud/functions-framework": "^3.1.2",
+      "@google-cloud/firestore": "^6.4.2"
+    }
+  }
