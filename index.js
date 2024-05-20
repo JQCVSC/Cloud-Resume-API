@@ -17,7 +17,7 @@ async function importJsonToFirestore(jsonData) {
 }
 
 // Cloud Function to import and retrieve resume data
-exports.resumeData = functions.http('function-1', async (req, res) => {
+exports.resumeData = functions.http('resumeData', async (req, res) => {
   try {
     const jsonData = [
       {
