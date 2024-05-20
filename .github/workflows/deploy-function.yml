@@ -1,0 +1,33 @@
+name: Deploy Cloud Function
+
+on:
+  push:
+    branches:
+      - main
+
+env:
+  PROJECT_ID: cloud-resume-api-423120
+  FUNCTION_NAME: function-1
+  REGION: us-central1
+
+jobs:
+
+  deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - id: auth
+      uses: google-github-actions/auth@v1
+      with:
+        credentials_json: ${{ secrets.GCP_SA_KEY }}
+        
+    - id: deploy
+      uses: google-github-actions/deploy-cloud-functions@v1
+      with:
+        name: ${{ env.FUNCTION_NAME }}
+        runtime: nodejs16
+        entry_point: resumeData
+        source_dir: ./
+        region: ${{ env.REGION }}
