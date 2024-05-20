@@ -1,15 +1,13 @@
 {
   "basics": {
-    "name": "JEREMY CODJOE",
+    "name": "JEREMY C.",
     "email": "jeremycodjoe@gmail.com",
-    "phone": "(480) 432-1619",
     "url": "https://www.linkedin.com/in/jeremycodjoe/",
     "location": {
-      "city": "San Tan Valley",
       "region": "AZ"
     }
   },
-  "education": [
+  "Education": [
     {
       "institution": "The University of Chicago",
       "area": "DevOps",
