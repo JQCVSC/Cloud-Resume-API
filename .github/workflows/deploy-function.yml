@@ -7,7 +7,7 @@ on:
 
 env:
   PROJECT_ID: cloud-resume-api-423120
-  FUNCTION_NAME: function-1
+  FUNCTION_NAME: resume-api
   REGION: us-central1
 
 jobs:
